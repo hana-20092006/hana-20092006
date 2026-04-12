@@ -16,10 +16,16 @@
 ---
 
 ## 🚀 Projects
-- 🔹 [Blog API](https://github.com/hana-20092006/blog-api-jwt) – Backend REST API with JWT authentication (Node.js, Express.js, MongoDB)  
-- 🔹 [Digital Product Passport](https://github.com/hana-20092006/digital-product-passport) – Sustainability tracking web application  
-- 🔹 [CaseFlow](https://github.com/hana-20092006/caseflow-mern) – MERN-based case management system  
+- 🔹 [Early Congestion Prediction & Adaptive Routing](https://github.com/hana-20092006/Early-Congestion-Prediction-and-Adaptive-Routing)  
+  Real-time network congestion prediction and adaptive routing system using graph algorithms, simulation (SimPy), and visualization  
+  🌐 Live Demo: https://srijani-das07.github.io/Early-Congestion-Prediction-and-Adaptive-Routing/
 
+- 🔹 [Blog API](https://github.com/hana-20092006/blog-api-jwt)  
+  Backend REST API with JWT authentication (Node.js, Express.js, MongoDB)
+
+- 🔹 [Digital Product Passport](https://github.com/hana-20092006/digital-product-passport)  
+  Sustainability tracking web application
+  
 ---
 
 ## 🌱 Currently Learning
