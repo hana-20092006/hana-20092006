@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Hana Maria Philip 👋
 
-<!--
-**hana-20092006/hana-20092006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science @ VIT Chennai  
+📊 BS Data Science @ IIT Madras  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- **Frontend:** HTML, CSS, React  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, SQL  
+- **Languages:** JavaScript, C++, Java, R
+  
+---
+
+## 🚀 Projects
+- 🔹 Blog API – RESTful API with JWT authentication  
+- 🔹 Digital Product Passport – Sustainability tracking system
+- 🔹 CaseFlow – MERN-based case management system  
+
+---
+
+## 🌱 Currently Learning
+- Open Source Contribution  
+- Scalable System Design  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/hana-maria-philip/
