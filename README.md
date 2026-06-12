@@ -1,6 +1,6 @@
 # Hi, I'm Hana Maria Philip 👋
 
-🎓 **B.Tech Computer Science Engineering @ VIT Chennai**
+🎓 **B.Tech Computer Science Engineering @ VIT Chennai**  
 📊 **BS Data Science @ IIT Madras**
 
 I'm passionate about **Machine Learning, Computer Vision, Intelligent Transportation Systems, and Full-Stack Development**. I enjoy building AI-driven solutions that combine research with practical applications.
