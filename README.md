@@ -1,38 +1,110 @@
 # Hi, I'm Hana Maria Philip 👋
 
-🎓 Computer Science @ VIT Chennai  
-📊 BS Data Science @ IIT Madras  
+🎓 **B.Tech Computer Science Engineering @ VIT Chennai**
+📊 **BS Data Science @ IIT Madras**
 
-💡 Passionate about building scalable applications and contributing to open source  
+I'm passionate about **Machine Learning, Computer Vision, Intelligent Transportation Systems, and Full-Stack Development**. I enjoy building AI-driven solutions that combine research with practical applications.
+
+---
+
+## 🚀 What I'm Currently Working On
+
+* 🤖 Machine Learning & AI Projects
+* 📚 Data Structures and Algorithms
+* 🌐 Full-Stack Development
+* 🔬 Research-driven Applications
+* 🏆 Hackathons and Open Source
 
 ---
 
 ## 💻 Tech Stack
-- **Frontend:** HTML, CSS, React  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, SQL  
-- **Languages:** JavaScript, C++, Java, R  
+
+### Languages
+
+* Python
+* C++
+* C
+* Java
+* JavaScript
+* R
+
+### Machine Learning & Data Science
+
+* Scikit-Learn
+* Pandas
+* NumPy
+* Matplotlib
+
+### Web Development
+
+* React
+* Node.js
+* Express.js
+* MongoDB
+* SQL
+* HTML
+* CSS
 
 ---
 
-## 🚀 Projects
-- 🔹 [Early Congestion Prediction & Adaptive Routing](https://github.com/hana-20092006/Early-Congestion-Prediction-and-Adaptive-Routing)  
-  Real-time network congestion prediction and adaptive routing system using graph algorithms, simulation (SimPy), and visualization  
-  🌐 Live Demo: https://srijani-das07.github.io/Early-Congestion-Prediction-and-Adaptive-Routing/
+## 🌟 Featured Projects
 
-- 🔹 [Blog API](https://github.com/hana-20092006/blog-api-jwt)  
-  Backend REST API with JWT authentication (Node.js, Express.js, MongoDB)
+### 🚦 Climate Resilient Transportation System
 
-- 🔹 [Digital Product Passport](https://github.com/hana-20092006/digital-product-passport)  
-  Sustainability tracking web application
-  
+Edge AI framework for road friction prediction, risk assessment, geo-spatial hazard mapping, and intelligent transportation systems.
+
+**Tech:** Python, Computer Vision, Sensor Fusion, React, Machine Learning
+
+---
+
+### 🎬 Movie Recommendation System
+
+Personalized movie recommendation using collaborative filtering, SVD, and content-based filtering.
+
+**Tech:** Python, Pandas, Scikit-Learn, Matplotlib
+
+---
+
+### 🌐 Early Congestion Prediction & Adaptive Routing
+
+Real-time network congestion prediction and adaptive routing using graph algorithms and simulation.
+
+🔗 Live Demo: https://srijani-das07.github.io/Early-Congestion-Prediction-and-Adaptive-Routing/
+
+**Tech:** Python, SimPy, NetworkX
+
+---
+
+### 📝 Blog API with JWT Authentication
+
+REST API supporting secure authentication and role-based access control.
+
+**Tech:** Node.js, Express.js, MongoDB
+
+---
+
+## 📈 Coding Profiles
+
+💻 LeetCode: https://leetcode.com/u/Hana_20092006/
+
+🏆 Solving Data Structures and Algorithms regularly
+
 ---
 
 ## 🌱 Currently Learning
-- Open Source Contribution  
-- Scalable System Design  
+
+* Large Language Models (LLMs)
+* Scalable System Design
+* Open Source Contribution
 
 ---
 
-## 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/hana-maria-philip/
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/hana-maria-philip/
+* GitHub: https://github.com/hana-20092006
+* LeetCode: https://leetcode.com/u/Hana_20092006/
+
+---
+
+⭐ Always excited to learn, build, and contribute to impactful technology.
