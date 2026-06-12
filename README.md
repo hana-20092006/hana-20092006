@@ -3,7 +3,7 @@
 🎓 **B.Tech Computer Science Engineering @ VIT Chennai**  
 📊 **BS Data Science @ IIT Madras**
 
-I'm passionate about **Machine Learning, Computer Vision, Intelligent Transportation Systems, and Full-Stack Development**. I enjoy building AI-driven solutions that combine research with practical applications.
+I'm passionate about **Machine Learning, Computer Vision, Intelligent Transportation Systems, and Full-Stack Development**, with a strong interest in building AI systems that solve real-world problems.
 
 ---
 
@@ -30,6 +30,7 @@ I'm passionate about **Machine Learning, Computer Vision, Intelligent Transporta
 
 ### Machine Learning & Data Science
 
+* Python
 * Scikit-Learn
 * Pandas
 * NumPy
@@ -62,7 +63,7 @@ Personalized movie recommendation system using collaborative filtering, SVD, and
 
 **Tech:** Python, Pandas, Scikit-Learn, Surprise
 
-🔗 **Live Demo:** https://huggingface.co/spaces/Philips20/movie-recommender
+**Live Demo:** [Movie Recommender](https://huggingface.co/spaces/Philips20/movie-recommender)
 
 ---
 
@@ -70,9 +71,9 @@ Personalized movie recommendation system using collaborative filtering, SVD, and
 
 Real-time network congestion prediction and adaptive routing using graph algorithms and simulation.
 
-🔗 Live Demo: https://srijani-das07.github.io/Early-Congestion-Prediction-and-Adaptive-Routing/
-
 **Tech:** Python, SimPy, NetworkX
+
+**Live Demo:** [Adaptive Routing Dashboard](https://srijani-das07.github.io/Early-Congestion-Prediction-and-Adaptive-Routing/)
 
 ---
 
@@ -86,7 +87,7 @@ REST API supporting secure authentication and role-based access control.
 
 ## 📈 Coding Profiles
 
-💻 LeetCode: https://leetcode.com/u/Hana_20092006/
+💻 LeetCode: [Hana_20092006](https://leetcode.com/u/Hana_20092006/)
 
 🏆 Solving Data Structures and Algorithms regularly
 
@@ -97,6 +98,14 @@ REST API supporting secure authentication and role-based access control.
 * Large Language Models (LLMs)
 * Scalable System Design
 * Open Source Contribution
+
+---
+
+## 📊 GitHub Stats
+
+![Hana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hana-20092006&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hana-20092006&layout=compact&hide_border=true)
 
 ---
 
