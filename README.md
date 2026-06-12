@@ -58,10 +58,11 @@ Edge AI framework for road friction prediction, risk assessment, geo-spatial haz
 ---
 
 ### 🎬 Movie Recommendation System
+Personalized movie recommendation system using collaborative filtering, SVD, and content-based filtering.
 
-Personalized movie recommendation using collaborative filtering, SVD, and content-based filtering.
+**Tech:** Python, Pandas, Scikit-Learn, Surprise
 
-**Tech:** Python, Pandas, Scikit-Learn, Matplotlib
+🌐 **Live Demo:** https://huggingface.co/spaces/Philips20/movie-recommender
 
 ---
 
