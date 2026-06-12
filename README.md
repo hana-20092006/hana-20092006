@@ -62,7 +62,7 @@ Personalized movie recommendation system using collaborative filtering, SVD, and
 
 **Tech:** Python, Pandas, Scikit-Learn, Surprise
 
-🌐 **Live Demo:** https://huggingface.co/spaces/Philips20/movie-recommender
+🔗 **Live Demo:** https://huggingface.co/spaces/Philips20/movie-recommender
 
 ---
 
